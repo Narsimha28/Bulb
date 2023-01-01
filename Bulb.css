@@ -1,0 +1,30 @@
+.thomas {
+    text-align: center;
+}
+
+#bulb {
+    text-align: center;
+    display: block;
+    margin: 0 auto;
+
+}
+
+button {
+    padding: 10px 50px;
+    margin: 50px;
+    color: black;
+    font-size: 50px;
+
+}
+
+button:hover {
+    background-color: brown;
+}
+
+.on {
+    background-color: yellow;
+}
+
+.off {
+    background-color: antiquewhite;
+}
